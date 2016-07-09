@@ -1,0 +1,5 @@
+bin/
+.settings/
+.classpath
+.project
+Median_test_cases_results.txt
